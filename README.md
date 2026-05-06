@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chuanshanjia666&show_icons=true&theme=github_dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chuanshanjia666&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chuanshanjia666&theme=github_dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chuanshanjia666&layout=compact&theme=dark)
