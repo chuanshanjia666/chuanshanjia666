@@ -1,22 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**chuanshanjia666/chuanshanjia666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chuanshanjia666&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chuanshanjia666&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-netlify.netlify.app/api?username=chuanshanjia666&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-netlify.netlify.app/api/top-langs/?username=chuanshanjia666&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
